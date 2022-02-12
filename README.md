@@ -26,6 +26,24 @@
 - [Heroku](#Deploy-to-Heroku)
 - [Local Machine](#Deploy-Locally)
 
+# Deploy
+You can deploy this bot anywhere.
+
+<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/farshadpyt/ultroid-pro">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/farshadpyt/ultroid-pro
 # Documentation 
 [![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
 
